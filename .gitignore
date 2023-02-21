@@ -1,0 +1,5 @@
+obj/*
+Properties/Resources.Designer.cs
+Properties/Settings.Designer.cs
+bin/Debug/SpaceShooter.vshost.exe
+SpaceShooter.csproj.user
